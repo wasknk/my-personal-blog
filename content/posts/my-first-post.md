@@ -2,6 +2,8 @@
 date = '2025-08-18T16:32:26+08:00'
 draft = false
 title = 'My First Post'
+categories = ["Web Development"]
+tags = ["Hugo", "Getting Started", "Website"]
 +++
 
 # Hello, World!
